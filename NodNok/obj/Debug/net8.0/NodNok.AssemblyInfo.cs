@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NodNok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+380a1a261bb3fbe4119032f3c0ae19e976d60166")]
 [assembly: System.Reflection.AssemblyProductAttribute("NodNok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NodNok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
