@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\NodNok\NodNok\bin\Debug\net8.0\NodNok.exe
+C:\Users\Acer\source\repos\NodNok\NodNok\bin\Debug\net8.0\NodNok.deps.json
+C:\Users\Acer\source\repos\NodNok\NodNok\bin\Debug\net8.0\NodNok.runtimeconfig.json
+C:\Users\Acer\source\repos\NodNok\NodNok\bin\Debug\net8.0\NodNok.dll
+C:\Users\Acer\source\repos\NodNok\NodNok\bin\Debug\net8.0\NodNok.pdb
+C:\Users\Acer\source\repos\NodNok\NodNok\obj\Debug\net8.0\NodNok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\NodNok\NodNok\obj\Debug\net8.0\NodNok.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\NodNok\NodNok\obj\Debug\net8.0\NodNok.AssemblyInfo.cs
+C:\Users\Acer\source\repos\NodNok\NodNok\obj\Debug\net8.0\NodNok.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\NodNok\NodNok\obj\Debug\net8.0\NodNok.dll
+C:\Users\Acer\source\repos\NodNok\NodNok\obj\Debug\net8.0\refint\NodNok.dll
+C:\Users\Acer\source\repos\NodNok\NodNok\obj\Debug\net8.0\NodNok.pdb
+C:\Users\Acer\source\repos\NodNok\NodNok\obj\Debug\net8.0\NodNok.genruntimeconfig.cache
+C:\Users\Acer\source\repos\NodNok\NodNok\obj\Debug\net8.0\ref\NodNok.dll
